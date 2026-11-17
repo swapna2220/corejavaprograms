@@ -18,7 +18,13 @@ public class TestDemo4 {
 
 		
 		System.out.println(a==c); //true --->here,checking the values
+		System.out.println(a !=c);//false
 		
+		System.out.println(a > b);//false
+		System.out.println(a>=b);//false
+		System.out.println(a>=b);//true
+		System.out.println(a<=c);
+		System.out.println(a<c);
 
 	}
 
